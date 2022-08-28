@@ -9,23 +9,10 @@ import { ContactService } from "../services/contact.service";
       <div class="row">
         <div class="col">
           <p class="fst-italic">Contact Manager App che mette a disposizione le funzionalità CRUD, Creata utilizzando Angular, json-server e Bootstrap.</p>
+          <p class="fst-italic">Aprire un terminale nella cartella server e inserire il comando "npm start" per avviare il json-server.</p>
           <p class="h3">
             <a class="btn btn-outline-dark" routerLink="/contacts/add">Create New User &nbsp; <i class="fa-solid fa-circle-plus"></i></a>
           </p>
-          <form>
-            <!-- <div class="row">
-              <div class="col-md-6">
-                <div class="row">
-                  <div class="col">
-                    <input class="form-control" placeholder="Search User" type="text" />
-                  </div>
-                  <div class="col">
-                    <input type="submit" value="Search" class="btn btn-outline-dark" />
-                  </div>
-                </div>
-              </div>
-            </div> -->
-          </form>
         </div>
       </div>
     </div>

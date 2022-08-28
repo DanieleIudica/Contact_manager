@@ -9,13 +9,7 @@ import { Component, OnInit } from "@angular/core";
       </div>
     </nav>
   `,
-  styles: [
-    `
-      /* .active {
-        color: green;
-      } */
-    `,
-  ],
+  styles: [``],
 })
 export class NavbarComponent implements OnInit {
   constructor() {}
