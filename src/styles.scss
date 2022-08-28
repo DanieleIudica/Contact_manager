@@ -1,1 +1,18 @@
 /* You can add global styles to this file, and also import other style files */
+@import '~bootstrap/scss/bootstrap';
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body{
+  font-family: 'Roboto', sans-serif;
+}
+.contact-img{
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  border: 1px solid rgba(91, 91, 91, 0.53);
+}
+.contact-img-big{
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+}

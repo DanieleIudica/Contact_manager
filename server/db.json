@@ -1,0 +1,62 @@
+{
+  "contacts": [
+    {
+      "name": "Daniele Iudica",
+      "photo": "assets/img/user.jpg",
+      "email": "daniele.iudica@hotmail.it",
+      "mobile": 3277466846,
+      "company": "Epicode",
+      "title": "Junior Front-end developer",
+      "groupId": "1",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "name": "Leanne Graham",
+      "company": "Bret",
+      "email": "Sincere@april.biz",
+      "title": "Freelance",
+      "mobile": "3332587462",
+      "photo": "assets/img/woman.jpg",
+      "groupId": "3"
+    },
+    {
+      "name": "Clementine Bauch",
+      "photo": "assets/img/woman.jpg",
+      "email": "Sincere@april.bs",
+      "mobile": "595904157",
+      "company": "Facebook",
+      "title": "Backend developer",
+      "groupId": "4",
+      "id": "3"
+    },
+    {
+      "id": "4",
+      "name": "Ervin Howell",
+      "company": "Wisokyburgh spa",
+      "email": "Shanna@melissa.tv",
+      "title": "CEO",
+      "mobile": "905667771",
+      "photo": "assets/img/man.jpeg",
+      "groupId": "2"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Collegue"
+    },
+    {
+      "id": "2",
+      "name": "Social"
+    },
+    {
+      "id": "3",
+      "name": "Community"
+    },
+    {
+      "id": "4",
+      "name": "Friend"
+    }
+  ]
+}
